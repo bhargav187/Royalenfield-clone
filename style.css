@@ -1,0 +1,223 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Navbar section starts here */
+#NavbarSection a {
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+.dropdown-menu{
+    background-color: black;
+    color: white;
+}
+#Ind{
+    width: 30px;
+}
+.navbar-brand img{
+    width: 230px;
+    margin: 10px;
+}
+#navbarNavDropdown{
+    margin-left: 250px;
+}
+#RightNav{
+    margin-left: 250px;
+}
+
+/* Image Section Starts here */
+
+
+.banner{
+    margin: 0px 10px;
+}
+
+.carousel-item img{
+    height:650px;
+}
+
+.carousel-indicators button{
+    width: 10px!important;
+    height: 10px!important;
+    border-radius: 100%;
+    margin: 0px 7px!important;
+    background-color: #212121 !important;
+}
+.carousel-indicators{
+    position: absolute;
+    top: 605px;
+}
+span.carousel-control-next-icon{
+    margin-left: 200px;
+}
+span.carousel-control-prev-icon{
+    margin-right: 200px;
+}
+
+/* NewsSection starts here */
+
+.ImgSection {
+    height: 300px; /* [1.1] Set it as per your need */
+    overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+    display: inline-block;
+}
+
+.ImgSection .slick{
+    transition: transform .5s ease;
+}
+
+.ImgSection:hover .slick{
+    transform: scale(1.1);
+}
+#NewsSection {
+    background-color: #212121;
+}
+#NewsSection h2{
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+}
+.ImgSection {
+     position: relative;
+     display: inline-block;
+}
+.ImgSection img{
+    width: 390px;
+}
+.bottom{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+    font-weight: bolder;
+}
+
+/* Bike Section Starts here */
+
+#BikeSection{
+    background-color: hsl(0, 0%, 13%);
+    color: white;
+}
+#BikeSection button{
+    background-color: #212121;
+    color: white;
+    border: 1px solid #212121;
+    font-family: 'Montserrat', sans-serif;
+}
+#Big{
+    font-size: 35px;
+}
+.small{
+    margin: 18px;
+}
+button.small:hover{
+    color: rgb(255, 0, 0) !important;
+    background-color: #212121;
+    border: 1px solid #212121;
+}
+button.active{
+    background: red;
+}
+
+/* Rides Section starts here */
+
+#RideSection{
+    background-color: hsl(0, 0%, 13%);
+    color: white;
+}
+#RideSection button{
+    background-color: #212121;
+    color: white;
+    border: 1px solid #212121;
+    font-family: 'Montserrat', sans-serif;
+}
+#Big{
+    font-size: 35px;
+}
+.small{
+    margin: 18px;
+}
+button.small:hover{
+    color: rgb(255, 0, 0) !important;
+    background-color: #212121;
+    border: 1px solid #212121;
+}
+
+
+/* Apparel Section Starts here */
+
+
+#ApparelSection{
+    background-color: hsl(0, 0%, 13%);
+    color: white;
+}
+#ApparelSection button{
+    background-color: #212121;
+    color: white;
+    border: 1px solid #212121;
+    font-family: 'Montserrat', sans-serif;
+}
+#Big{
+    font-size: 35px;
+}
+.small{
+    margin: 18px;
+}
+button.small:hover{
+    color: rgb(255, 0, 0) !important;
+    background-color: #212121;
+    border: 1px solid #212121;
+}
+
+
+/* Accessories Starts here */
+
+
+#AccSection{
+    background-color: hsl(0, 0%, 13%);
+    color: white;
+}
+#AccSection button{
+    background-color: #212121;
+    color: white;
+    border: 1px solid #212121;
+    font-family: 'Montserrat', sans-serif;
+}
+#Big{
+    font-size: 35px;
+}
+.small{
+    margin: 18px;
+}
+button.small:hover{
+    color: rgb(255, 0, 0) !important;
+    background-color: #212121;
+    border: 1px solid #212121;
+}
+
+/* Locate us Section */
+
+#LocSection{
+    background-color: hsl(0, 0%, 13%);
+    color: white;
+}
+#LocSection button{
+    background-color: #212121;
+    color: white;
+    border: 1px solid #212121;
+    font-family: 'Montserrat', sans-serif;
+}
+#Big{
+    font-size: 35px;
+}
+.small{
+    margin: 18px;
+}
+button.small:hover{
+    color: rgb(255, 0, 0) !important;
+    background-color: #212121;
+    border: 1px solid #212121;
+}
+
